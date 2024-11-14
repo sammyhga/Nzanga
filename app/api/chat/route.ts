@@ -160,7 +160,7 @@ export async function POST(req: Request) {
 
 30. Tilinao Lamba (Zomba)
     - Location: Zomba
-    - Helpline: 885795906
+    - Helpline: 0885795906
 
 31. Mrs Mkolosia (Zomba)
     - Location: Zomba
